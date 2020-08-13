@@ -1,0 +1,83 @@
+foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
+,Q7150914,Paul Givan,Q215519,Democratic Unionist Party,8035,Q28231972,2017 Assembly election,1
+,Q24083709,Robbie Butler,Q841045,Ulster Unionist Party,11037.42,Q28231972,2017 Assembly election,2
+,Q7839296,Trevor Lunn,Q244927,Alliance Party of Northern Ireland,7656.86,Q28231972,2017 Assembly election,3
+,Q5346750,Edwin Poots,Q215519,Democratic Unionist Party,7401.82,Q28231972,2017 Assembly election,4
+Q28868438,Q28868438,Pat Catney,Q175443,Social Democratic and Labour Party,6848.92,Q28231972,2017 Assembly election,5
+,Q4960688,Brenda Hale,Q215519,Democratic Unionist Party,6415.70,Q28231972,2017 Assembly election,6
+,Q24083766,Jennifer Palmer,Q841045,Ulster Unionist Party,5094.72,Q28231972,2017 Assembly election,7
+Q98270636,,Peter Doran,Q76382,Sinn Féin,1877.12,Q28231972,2017 Assembly election,8
+Q98270429,,Samuel Morrison,Q985076,Traditional Unionist Voice,1448,Q28231972,2017 Assembly election,9
+,,Dan Barrios-O'Neill,Q1096979,Green Party of Northern Ireland,1217.36,Q28231972,2017 Assembly election,10
+Q98270419,,Jonny Orr,Q327591,Independent (politician),909.72,Q28231972,2017 Assembly election,11
+Q76450679,,Matthew Robinson,Q7058484,Northern Ireland Conservatives,183,Q28231972,2017 Assembly election,12
+,,Keith Gray,Q327591,Independent (politician),76,Q28231972,2017 Assembly election,13
+,Q7150914,Paul Givan,Q215519,Democratic Unionist Party,5635,Q16973450,2016 Assembly election,1
+,Q7839296,Trevor Lunn,Q244927,Alliance Party of Northern Ireland,6886,Q16973450,2016 Assembly election,2
+,Q24083709,Robbie Butler,Q841045,Ulster Unionist Party,5291,Q16973450,2016 Assembly election,3
+,Q24083766,Jennifer Palmer,Q841045,Ulster Unionist Party,5212,Q16973450,2016 Assembly election,4
+,Q5346750,Edwin Poots,Q215519,Democratic Unionist Party,5064,Q16973450,2016 Assembly election,5
+,Q4960688,Brenda Hale,Q215519,Democratic Unionist Party,4577,Q16973450,2016 Assembly election,6
+,Q6272833,Jonathan Craig,Q215519,Democratic Unionist Party,4409,Q16973450,2016 Assembly election,7
+Q28868438,,Pat Catney,Q175443,Social Democratic and Labour Party,4012,Q16973450,2016 Assembly election,8
+,,Dan Barrios-O'Neill,Q1096979,Green Party of Northern Ireland,1661,Q16973450,2016 Assembly election,9
+Q98344005,,Lyle Rea,Q985076,Traditional Unionist Voice,1518,Q16973450,2016 Assembly election,10
+Q98270413,,Jacqui McGeough,Q76382,Sinn Féin,1082,Q16973450,2016 Assembly election,11
+Q98270419,,Jonny Orr,Q327591,Independent (politician),857,Q16973450,2016 Assembly election,12
+Q98270803,,Brian Higginson,Q10647,UK Independence Party,768,Q16973450,2016 Assembly election,13
+,,Jack Irwin,Q7058484,Northern Ireland Conservatives,341,Q16973450,2016 Assembly election,14
+,,Peter Dynes,Q20642359,Northern Ireland Labour Representation Committee,171,Q16973450,2016 Assembly election,15
+,,Frazer McCammond,Q98347721,Democracy First,124,Q16973450,2016 Assembly election,16
+,Q5346750,Edwin Poots,Q215519,Democratic Unionist Party,7329,Q7058474,2011 Assembly election,1
+,Q4867218,Basil McCrea,Q841045,Ulster Unionist Party,5771,Q7058474,2011 Assembly election,2
+,Q6272833,Jonathan Craig,Q215519,Democratic Unionist Party,5081,Q7058474,2011 Assembly election,3
+,Q7839296,Trevor Lunn,Q244927,Alliance Party of Northern Ireland,5120,Q7058474,2011 Assembly election,4
+,Q7150914,Paul Givan,Q215519,Democratic Unionist Party,5518,Q7058474,2011 Assembly election,5
+,Q4960688,Brenda Hale,Q215519,Democratic Unionist Party,4791,Q7058474,2011 Assembly election,6
+Q28868438,,Pat Catney,Q175443,Social Democratic and Labour Party,3406,Q7058474,2011 Assembly election,7
+,,Mark Hill,Q841045,Ulster Unionist Party,2434,Q7058474,2011 Assembly election,8
+,,Mary Kate Quinn,Q76382,Sinn Féin,1241,Q7058474,2011 Assembly election,9
+Q98344005,,Lyle Rea,Q985076,Traditional Unionist Voice,1110,Q7058474,2011 Assembly election,10
+,,Conor Quinn,Q1096979,Green Party in Northern Ireland,606,Q7058474,2011 Assembly election,11
+,Q300292,Jeffrey Donaldson,Q215519,Democratic Unionist Party,9793,Q2562399,2007 Assembly election,1
+,Q7149639,Paul Butler,Q76382,Sinn Féin,6387.07,Q2562399,2007 Assembly election,2
+,Q4867218,Basil McCrea,Q841045,Ulster Unionist Party,6712.32,Q2562399,2007 Assembly election,3
+,Q7839296,Trevor Lunn,Q244927,Alliance Party of Northern Ireland,6263.75,Q2562399,2007 Assembly election,4
+,Q6272833,Jonathan Craig,Q215519,Democratic Unionist Party,6147.90,Q2562399,2007 Assembly election,5
+,Q5346750,Edwin Poots,Q215519,Democratic Unionist Party,5385.65,Q2562399,2007 Assembly election,6
+,Q7150914,Paul Givan,Q215519,Democratic Unionist Party,4728.47,Q2562399,2007 Assembly election,7
+,Q4912187,Billy Bell,Q841045,Ulster Unionist Party,3739.93,Q2562399,2007 Assembly election,8
+,Q6763228,Marietta Farrell,Q175443,Social Democratic and Labour Party,3062.16,Q2562399,2007 Assembly election,9
+,,Ronnie Crawford,Q841045,Ulster Unionist Party,1336.37,Q2562399,2007 Assembly election,10
+,,Michael Rogan,Q1096979,Green Party of Northern Ireland,1023.45,Q2562399,2007 Assembly election,11
+,Q7347473,Robert McCartney,Q985706,UK Unionist Party,987.84,Q2562399,2007 Assembly election,12
+,,Neil Johnston,Q7058484,Northern Ireland Conservatives,418.98,Q2562399,2007 Assembly election,13
+,,John Magee,Q1860218,Workers' Party of Ireland,84.95,Q2562399,2007 Assembly election,14
+,Q300292,Jeffrey Donaldson,Q841045,Ulster Unionist Party,14104,Q2076187,2003 Assembly election,1
+,Q5346750,Edwin Poots,Q215519,Democratic Unionist Party,6714.32,Q2076187,2003 Assembly election,2
+,Q4912187,Billy Bell,Q841045,Ulster Unionist Party,6933.48,Q2076187,2003 Assembly election,3
+,Q7440740,Seamus Close,Q244927,Alliance Party of Northern Ireland,6295.40,Q2076187,2003 Assembly election,4
+,Q7145695,Patricia Lewsley,Q175443,Social Democratic and Labour Party,6256.74,Q2076187,2003 Assembly election,5
+,Q7050198,Norah Beare,Q841045,Ulster Unionist Party,5657.44,Q2076187,2003 Assembly election,6
+,Q4757371,Andrew Hunter,Q215519,Democratic Unionist Party,5044.57,Q2076187,2003 Assembly election,7
+,Q7149639,Paul Butler,Q76382,Sinn Féin,3278.26,Q2076187,2003 Assembly election,8
+,Q6096121,Ivan Davis,Q327591,Independent (politician),2735,Q2076187,2003 Assembly election,9
+,Q6196146,Jim Kirkpatrick,Q841045,Ulster Unionist Party,2094.08,Q2076187,2003 Assembly election,10
+,,Joanne Johnston,Q7058484,Northern Ireland Conservatives,462.86,Q2076187,2003 Assembly election,11
+Q98306729,,Andrew Park,Q1817613,Progressive Unionist Party,256.66,Q2076187,2003 Assembly election,12
+,,Frances McCarthy,Q1860218,Workers' Party of Ireland,103.38,Q2076187,2003 Assembly election,13
+,Q7440740,Seamus Close,Q244927,Alliance Party of Northern Ireland,6788,Q2076208,1998 Assembly election,1
+,Q4912187,Billy Bell,Q841045,Ulster Unionist Party,6679,Q2076208,1998 Assembly election,2
+,Q5346750,Edwin Poots,Q215519,Democratic Unionist Party,7642,Q2076208,1998 Assembly election,3
+,Q6096121,Ivan Davis,Q841045,Ulster Unionist Party,7322.44,Q2076208,1998 Assembly election,4
+,Q7147555,Patrick Roche,Q985706,UK Unionist Party,6859.33,Q2076208,1998 Assembly election,5
+,Q7145695,Patricia Lewsley,Q175443,Social Democratic and Labour Party,6282.41,Q2076208,1998 Assembly election,6
+,Q5525575,Gary McMichael,Q1781051,Ulster Democratic Party,4970.40,Q2076208,1998 Assembly election,7
+,Q7343409,David Campbell,Q841045,Ulster Unionist Party,3902.59,Q2076208,1998 Assembly election,8
+,Q5055992,Cecil Calvert,Q215519,Democratic Unionist Party,3216,Q2076208,1998 Assembly election,9
+,Q7149639,Paul Butler,Q76382,Sinn Féin,2064,Q2076208,1998 Assembly election,10
+,,Ken Hull,Q841045,Ulster Unionist Party,1381,Q2076208,1998 Assembly election,11
+Q98273673,,Annie Campbell,Q7058538,Northern Ireland Women's Coalition,1013,Q2076208,1998 Assembly election,12
+,Q8005630,William Bleakes,Q7058484,Northern Ireland Conservatives,713,Q2076208,1998 Assembly election,13
+,,Frances McCarthy,Q1860218,Workers' Party of Ireland,208,Q2076208,1998 Assembly election,14
+,,John Collins,Q491782,Natural Law Party,43,Q2076208,1998 Assembly election,15
